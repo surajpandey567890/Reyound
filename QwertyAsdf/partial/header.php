@@ -10,7 +10,7 @@
     <meta name="description" content="Reyound | Reyound Rewind">
     <meta name="keywords" content="Reyound">
     <meta name="author" content="Navrangi E-Commerce">
-    <link rel="shortcut icon" href="/QwertyAsdf/img/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="/reyound/QwertyAsdf/img/logo.png" type="image/x-icon">
     <!-- The above 6 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <style>
@@ -27,19 +27,19 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet">
-    <link href="/QwertyAsdf/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/QwertyAsdf/assets/plugins/font-awesome/css/all.min.css" rel="stylesheet">
-    <link href="/QwertyAsdf/assets/plugins/DataTables/datatables.min.css" rel="stylesheet">
-    <link href="/QwertyAsdf/assets/plugins/select2/css/select2.min.css" rel="stylesheet">
+    <link href="/reyound/QwertyAsdf/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/reyound/QwertyAsdf/assets/plugins/font-awesome/css/all.min.css" rel="stylesheet">
+    <link href="/reyound/QwertyAsdf/assets/plugins/DataTables/datatables.min.css" rel="stylesheet">
+    <link href="/reyound/QwertyAsdf/assets/plugins/select2/css/select2.min.css" rel="stylesheet">
 
 
     <!-- Theme Styles -->
-    <link href="/QwertyAsdf/assets/css/connect.min.css" rel="stylesheet">
-    <link href="/QwertyAsdf/assets/css/dark_theme.css" rel="stylesheet">
-    <link href="/QwertyAsdf/assets/css/custom.css" rel="stylesheet">
+    <link href="/reyound/QwertyAsdf/assets/css/connect.min.css" rel="stylesheet">
+    <link href="/reyound/QwertyAsdf/assets/css/dark_theme.css" rel="stylesheet">
+    <link href="/reyound/QwertyAsdf/assets/css/custom.css" rel="stylesheet">
 
     <!-- Sweetalert -->
-    <!-- <link rel="stylesheet" href="/QwertyAsdf/css/sweetalert.css"> -->
+    <!-- <link rel="stylesheet" href="/reyound/QwertyAsdf/css/sweetalert.css"> -->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -52,7 +52,7 @@
 <body>
     <div class="connect-container align-content-stretch d-flex flex-wrap">
         <div class="page-sidebar">
-            <div class="logo-box"><img src="/QwertyAsdf/img/navlogo.png" alt="Fashion Jalsa" width="60%"><a href="#" id="sidebar-close"><i class="material-icons">close</i></a> <a href="#" id="sidebar-state"><i class="material-icons">adjust</i><i class="material-icons compact-sidebar-icon">panorama_fish_eye</i></a></div>
+            <div class="logo-box"><img src="/reyound/QwertyAsdf/img/navlogo.png" alt="Fashion Jalsa" width="60%"><a href="#" id="sidebar-close"><i class="material-icons">close</i></a> <a href="#" id="sidebar-state"><i class="material-icons">adjust</i><i class="material-icons compact-sidebar-icon">panorama_fish_eye</i></a></div>
             <div class="page-sidebar-inner slimscroll">
                 <ul class="accordion-menu">
                     <li>
