@@ -105,7 +105,8 @@
 												} else {
 													$type = "Best Seller";
 												}
-										?>
+												
+											?>
 												<tr>
 													<td><?= ($key + 1); ?></td>
 													<td><?= $val[1]; ?></td>
